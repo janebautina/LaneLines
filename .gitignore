@@ -11,3 +11,6 @@ LICENSE
 test_videos
 test_videos_output
 writeup_template.md
+.ipynb_checkpoints
+test_images/
+test_videos*
