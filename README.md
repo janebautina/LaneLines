@@ -11,6 +11,8 @@ This project will help to detect lane lines in images and videos that were taken
 the center of a vehicle using Python and OpenCV. OpenCV means "Open-Source Computer Vision", 
 which is a package that has many useful tools for analyzing images.  
 
+![LaneLines](https://github.com/janebautina/LaneLines/blob/master/examples/laneLines_thirdPass.jpg)
+
 ## Getting started with the project
 1. Install python 3
 1. Install Docker
